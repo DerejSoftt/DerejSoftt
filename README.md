@@ -14,4 +14,9 @@ Desde nuestros inicios, nos hemos destacado por adaptarnos a las necesidades esp
   
  **No tengas miedo de comenzar**.Todo inicio es difícil, pero con una buena idea, esfuerzo y un equipo unido, se pueden lograr grandes cosas. Nosotros somos prueba de ello.
 
-# Herramientas
+# Herramientas & Tecnologias
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,css,figma,flask,html,github,js,py,vscode,mysql,django" />
+  </a>
+</p>
