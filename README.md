@@ -11,8 +11,8 @@
 [![TikTok](https://img.shields.io/badge/TikTok-@derejsoft-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://tiktok.com/@derejsoft)
 [![Facebook](https://img.shields.io/badge/Facebook-@derejsoft-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://facebook.com/derejsoft)
 </br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
-[![Web](https://img.shields.io/badge/Web-MoureDev.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://derejsoft.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-derejsoft-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/derejsoft)
+[![Web](https://img.shields.io/badge/Web-derejsoft.com-14a1f0?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=101010)](https://derejsoft.com)
 
 # Herramientas & Tecnologias
 <p align="center">
