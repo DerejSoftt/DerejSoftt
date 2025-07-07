@@ -1,6 +1,6 @@
 # Hola Esta es una Empresa De Desarrollo de Software👋
 
-![DerejSoft(1)](https://github.com/user-attachments/assets/9b41d9f4-ce95-416d-ae80-0672134033f6)
+![DerejSoft(1)]![DerejSoft(1)](https://github.com/user-attachments/assets/d0d083d1-2a72-4dad-95d2-3b24666b5e9f)
 
 ![GitHub followers](https://img.shields.io/github/followers/DerejSoftt)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fderejsoft.com%2F)
